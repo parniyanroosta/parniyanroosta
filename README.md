@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parniyanroosta
 - 👀 I’m interested in finding a position as a Software developer!
-- 🌱 I’m currently learning JavaScript, C#, SQL Server, Node, etc
+- 🌱 I’m currently learning JavaScript, C#, Java, React, Node, etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, via my email : parniyan.roosta@gmail.com
 
